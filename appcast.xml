@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Thunder</title>
+<item>
+<title>3.3.4</title>
+<pubDate>Mon, 20 May 2019 14:28:32 +0800</pubDate>
+            <description>
+<![CDATA[
+                <ul> 
+                    <li>支持自助检测网络状况</li>
+                    <li>支持设置是否在创建BT任务后自动删除种子文件</li>
+                    <li>显示下载任务当前连接到的资源数</li>
+                    <li>修复部分引起客户端异常退出的问题</li>
+                </ul>
+]]>
+</description>
+<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+<enclosure url="http://mac.down.sandai.net/mac/thunder_3.3.4.4036.dmg" sparkle:version="4036" sparkle:shortVersionString="3.3.4" sparkle:edSignature="FoWAfDCQnZUBLSMwr7v7ffj/QWy0ib//thGUTJBNdGSh2rfDrMWhqIrr8WKmVLA1sViknHuIAXsqxH03kmaWAA==" length="17652573" type="application/octet-stream"/>
+</item>
+</channel></rss>
