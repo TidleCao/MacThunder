@@ -2,20 +2,25 @@
 <channel>
 <title>Thunder</title>
 <item>
-<title>3.3.5</title>
-<pubDate>周一, 08 7月 2019 11:01:53 +0800</pubDate>
+<title>3.3.6</title>
+<pubDate>周五, 02 8月 2019 11:37:41 +0800</pubDate>
             <description>
 <![CDATA[
-    <ul>
-    <li>支持下载资源到玩客云</li>
-    <li>增加下载状态显示</li>
-    <li>支持通过手机迅雷扫码登录</li>
-    <li>优化边下边播打开速度</li>
-    <li>支持编辑文件信息和筛选标签</li>
-    </ul>
+<ul>
+ <li>支持备份iOS迅雷的文件和下载记录并导入Mac迅雷</li>
+  <li>已完成列表支持更多格式筛选</li>
+
+ <li>批量创建文件时显示文件总数
+</li>
+ <li>支持对正在下载的文件进行重命名
+</li>
+ <li>优化应用页布局
+</li>
+
+  </ul>
 ]]>
 </description>
 <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
-<enclosure url="http://down.sandai.net/mac/thunder_3.3.5.4090.dmg" sparkle:version="4090" sparkle:shortVersionString="3.3.5" sparkle:edSignature="D5xPRS0wrxvg6bBbEmKUGzJrFVGpgkg0dqX49883n0D1nkDz2u9j6zeNqA79RrtG5saPFjzXVwozqepeD68NDQ==" length="18433232" type="application/octet-stream"/>
+<enclosure url="http://down.sandai.net/mac/thunder_3.3.6.4136.dmg" sparkle:version="4136" sparkle:shortVersionString="3.3.6" sparkle:edSignature="X5Ua7b53fu31Pi4VmxjIy6te/43XcKZZU/xBZvsyEcLhLSux5r0P6bSG4WOvyEF+7jyzTAEHgHTbtwTWNlAdCA==" length="19455821" type="application/octet-stream"/>
 </item>
 </channel></rss>
