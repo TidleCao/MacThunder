@@ -1,0 +1,20 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Thunder</title>
+<item>
+<title>3.3.7</title>
+<pubDate>周一, 02 9月 2019 11:32:20 +0800</pubDate>
+            <description>
+<![CDATA[
+<ul>
+ <li>新增自动将低速任务移至队尾的选项</li>
+ <li>增加下载问题反馈入口</li>
+ <li>支持将下载记录已经文件恢复至iOS迅雷中</li>
+ <li>优化部分浏览器插件</li>
+ </ul>
+]]>
+</description>
+<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+<enclosure url="http://down.sandai.net/mac/thunder_3.3.7.4170.dmg" sparkle:version="4170" sparkle:shortVersionString="3.3.7" sparkle:edSignature="+GIqeoMBcc5as3J3I4nx1GTPzHaHENU2dqGMAJBJGFyDdjsIZb27ZJB4LaVs4+/58P3jipsWEvwQ9Uup7P9jAQ==" length="20840250" type="application/octet-stream"/>
+</item>
+</channel></rss>
