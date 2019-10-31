@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Thunder</title>
+<item>
+<title>3.3.8</title>
+<pubDate>周二, 29 10月 2019 22:38:49 +0800</pubDate>
+            <description>
+<![CDATA[
+<ul>
+<li>支持备份mac迅雷下载记录</li>
+<li>支持检测和修复损坏的数据库文件</li>
+<li>对包含多个子文件的BT文件增加重新选择子文件菜单项</li>
+<li>支持批量复制下载链接</li>
+<li>内嵌页面打开方式优化</li>
+</ul>
+]]>
+</description>
+<sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+<enclosure url="http://down.sandai.net/mac/thunder_3.3.8.4222.dmg" sparkle:version="4222" sparkle:shortVersionString="3.3.8" sparkle:edSignature="m0d4ic6Mvwb8Qbl4YRjrnKGhD+BWLO80F16W99VWxpD9nmsdyUGvydKmutdybFwx7Rohyv49dJvr4+DWkmDtDg==" length="21023162" type="application/octet-stream"/>
+</item>
+</channel></rss>
