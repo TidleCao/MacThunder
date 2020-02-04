@@ -23,7 +23,6 @@ function install_thunder() {
 		 hdiutil attach ${THUNDER_FILE}.cdr -mountpoint ${THUNDER_MOUNT} -noverify -noautofsck -nobrowse
 		if [[ -d  ${THUNDER_MOUNT}/Thunder.app ]];then
 			 ditto $THUNDER_MOUNT/Thunder.app /Applications/Thunder.app
-			 xattr -rc /Applications/Thunder.app
 			 hdiutil detach  ${THUNDER_MOUNT}
 			rm -Rf ${THUNDER_MOUNT}
 			rm -Rf ${THUNDER_FILE}.cdr
@@ -49,6 +48,7 @@ function main() {
 	else
 		 install_thunder
 	fi
+	xattr -rc /Applications/Thunder.app
 	sleep 1
 	open -a /Applications/Thunder.app/Contents/MacOS/Thunder 
 }
